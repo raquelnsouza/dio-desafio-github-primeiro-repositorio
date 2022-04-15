@@ -1,0 +1,36 @@
+COMANDOS BÁSICOS 
+
+//Listar:
+
+Windows (cmd)
+
+dir
+
+Lixus:
+ls
+
+// transitar entre as pastas
+
+cd
+
+// voltar
+
+cd .. 
+
+// limpar a tela
+
+windows: cls
+linux: clear (ctrl l)
+
+//TAB (autocompletar)
+
+// criar pasta
+
+windows: mkdir
+
+// remover pasta
+
+rmdir
+
+
+

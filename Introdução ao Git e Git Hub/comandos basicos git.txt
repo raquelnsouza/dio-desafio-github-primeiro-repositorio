@@ -1,0 +1,15 @@
+//iniciar repositório
+
+git init
+
+//iniciar versionamento
+
+git add
+
+//iniciar commit
+
+git commit
+
+
+
+
